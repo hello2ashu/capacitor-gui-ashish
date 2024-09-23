@@ -12,5 +12,5 @@ spec:
   prune: true
   path: "./"
   sourceRef:
-    kind: OCIRepository
+    kind: oci-repo.yaml
     name: capacitor
